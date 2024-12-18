@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I am [Aviral Dubey](https://www.linkedin.com/in/aviral-dubey-0b3a04334/) 👋
+![LinkedIn](https://www.linkedin.com/in/aviral-dubey-0b3a04334/)
 
 <!--
 **Aviral-Dubey1/Aviral-Dubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
