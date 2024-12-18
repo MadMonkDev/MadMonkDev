@@ -1,17 +1,26 @@
 ## Hi there, I am [Aviral Dubey](https://www.linkedin.com/in/aviral-dubey-0b3a04334/) 👋
+<!-- List of socials and other links -->
+
 ![LinkedIn](https://www.linkedin.com/in/aviral-dubey-0b3a04334/)
 
-<!--
-**Aviral-Dubey1/Aviral-Dubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  -->
 
-Here are some ideas to get you started:
+## 📓 My Interests: 
+- Low-Level Programming
+- Working with Embeded systems 
+- Also learning and exploring Different Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📢 Currently Learning/Working on:
+- Web Development
+- Data Structures and Algorithm
+- Trying SomeWhat Data Analysis and Machine Learning
+
+## 💻 My Development Enviroment :
+- Operating System :
+  - Arch \(I use arch btw)
+- IDE:
+  - NeoVim on Kitty Terminal Emulator
+  - VSCode
+- Tools:
+  - Obsidian
+  - git
