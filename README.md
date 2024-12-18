@@ -18,8 +18,9 @@
 ## 💻 My Development Enviroment :
 - Operating System :
   - Arch \(I use arch btw)
+  - KDE Plasma WM
 - IDE:
-  - NeoVim on Kitty Terminal Emulator
+  - NeoVim
   - VSCode
 - Tools:
   - Obsidian
