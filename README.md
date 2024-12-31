@@ -16,17 +16,6 @@
 - Data Structures and Algorithm
 - Trying SomeWhat Data Analysis and Machine Learning
 
-## 💻 My Development Enviroment :
-- Operating System :
-  - Arch \(I use arch btw)
-  - KDE Plasma WM
-- IDE:
-  - NeoVim
-  - VSCode
-- Tools:
-  - Obsidian
-  - git
-
 ---
 
 ### Contact :
