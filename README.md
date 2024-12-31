@@ -1,7 +1,7 @@
 ## Hi there, I am [Aviral Dubey](https://www.linkedin.com/in/aviral-dubey-0b3a04334/) 👋
 <!-- List of socials and other links -->
 
-![LinkedIn](https://www.linkedin.com/in/aviral-dubey-0b3a04334/)
+<a href="https://www.linkedin.com/in/aviral-dubey-0b3a04334/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" /> </a>
 
 <!--  -->
 
