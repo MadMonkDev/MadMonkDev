@@ -2,7 +2,7 @@
 <!-- List of socials and other links -->
 
 <a href="https://www.linkedin.com/in/aviral-dubey-0b3a04334/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" /> </a>
-<a href="https://x.com/MadMonkDev?s=09" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="30" /> </a>
+<!-- <a href="https://x.com/MadMonkDev?s=09" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="30" /> </a> -->
 
 ---
 
